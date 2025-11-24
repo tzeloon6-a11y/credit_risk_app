@@ -8,3 +8,5 @@ joblib
 llama-cpp-python
 streamlit
 requests
+plotly
+shap
